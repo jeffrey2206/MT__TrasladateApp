@@ -15,14 +15,19 @@ I arrive at the trolebus stop, I pay the transport fee, and at the time of enter
 First I look for the place where I have to go, after that I look for the nearest stop and how long it takes, if I see that a stop is farther from my place where I have to go I calculate in which bus line is faster after that I go to the nearest stop of my point of origin and wait for the unit that takes me, I ask the driver if this bus goes to the stop I want and I get on but if it is the case I wait for another unit and once on the bus I ask him to please let me know when I get to my destination stop.
 5-
 To go to a place I don't know I use Google maps, google maps has a function that if you put your origin and your destination it recommends bus lines that arrive to such place after that I take a screenshot of the whole route that I have to do to get to my point of origin and if I get lost I ask people where is such stop after that I calculate the streets with my screenshot of the route and just in case I ask people where is such stop, once I arrive to the final stop I check with the screenshot if I am in the right place and previously I see in 3d the streets of the stop I have to stay at and the finalized stop so I don't get lost in the route, I can check if I am in the right place.
+
 6-
 First I go to the bus stop that takes me to the indicated destination after that I entered the bus I chose, I look at a place to sit and be able to go well on my trip if it is long, after that while I see the landscape I wait for The bus arrives at my destination, as we arrive I make it stop saying thank you at a stop at that moment I pay the assistant the amount that I should pay since it changes depending on the route we chose and I get off the bus.
+
 7.-
 Generally, I take the bus closest to my home that takes me to a central bus station in this case the Ofelia, after arriving there I board the metro or the bus depending on my destination until I reach my destination. And generally when they are destinations that I have never visited a day before, I check the route on Google Maps and see well on the streets and to get good advice I ask the driver to let me know when I arrive at my destination.
+
 8.-
 When I have to use public transport I prefer to do it as early as possible because it is when there is less agglomeration of people I prefer to avoid rush hours where the bus is so respectful that there is no longer where to stop depending on my destination I take a bus that leaves me closer to my destination and took the trolley or a second bus to take me to my destination, although there are times that I get lost since sometimes I do not know the buses or the streets or where I should get off, so I must be very aware of the streets and which bus to take so as not to be mistaken.
+
 9.- 
 When I go to the bus stop, it is very difficult for me to know if I left on time because I don't know if I will arrive on time to my destination because the buses are very irregular in their schedule.
+
 10.-
 When I go to a place that is not very popular for me in which I have to take public transportation I usually get lost in the question of which bus is the right one to take, which of these transports can direct me much faster to my destination.
 
